@@ -1,5 +1,6 @@
-import math
+print 01
+print 010
+print 0100
+print 01000
 
-radius = 5.0
-sphere_volume = (4/3)*math.pi*(radius^3)
-print(sphere_volume)
+# The results are base-8 (octal) notation due to each number's '0' affix

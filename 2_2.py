@@ -1,11 +1,9 @@
-#Suppose the cover price of a book is $24.95, but bookstores get a 40% discount. Shipping costs $3 for the first copy and 75 cents for each additional copy. What is the total wholesale cost for 60 copies?
-book_price = 24.95
-store_discount = 0.4
-first_copy_shipping_price = 3
-additional_shipping_price = 0.75
+# expressions have values and are technically statements
+5
+x = 5
+x + 1
 
-first_copy_price = (book_price * store_discount) + first_copy_shipping_price
-_59_copies_price = 59 * ((book_price * store_discount) + additional_shipping_price)
-_60_copies_price = first_copy_price + _59_copies_price
-
-print (_60_copies_price)
+# statements do not have values
+print 5
+#print (x = 5)	#commented out due to invalid syntax
+print (x + 1)
