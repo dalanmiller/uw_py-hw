@@ -1,0 +1,8 @@
+>>> help('print')
+no documentation found for 'print'
+
+_______________________________________
+From book
+=======================================
+If this example doesn’t work, you may need to install additional Python documentation or set an
+environment variable; the details depend on your operating system and version of Python.
