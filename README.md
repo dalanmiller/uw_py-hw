@@ -11,7 +11,31 @@
 
 I'm just a dude that does his homework! Here's a rough narration of my thought process as I blaze through this course.
 
+## Week 2 ##
+### In-class ###
+* I need to install [Swampy](http://allendowney.com/swampy/install.html).
+* Best practice: Use docstrings!
+* It is possible to define a global variable inside a local function that can be accessed outside the function.
+  * To use: call global as a reserved function with variable as argument
+* Glossary: *None* is a sentinel value, can reliably return "nothing"
+* Overload on surrounding quotation marks to pass a string with quotes inside.
+* Local variables need to have a default value.
+* Glossary: *Dereference* refers to contents of a variable.
+* Best practice: Don't use global variables!
+  * Demonstration: scope.py
+  * Best practice: Don't use local and global variable names that are the same or single-letter
+* Jeff wants us to practice importing modules such as *string*
+
+```python
+Practice writing docstring (quiz 2)
+def k(a, b, c=6):
+    """Prints (a*b)+c"""
+    print (a*b)+c
+help(k)
+```
+
 ## Week 1 ##
+### Homework & Reading ###
 * Ch1: Had issues with 1_3 due to lack of help library on Windows IDLE
 * Ch2: Can't remember how to concatenate a string and an integer/float
   * Resolved: In Chapter 3 I figured out just to convert to strings
