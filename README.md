@@ -26,11 +26,12 @@ I'm just a dude that does his homework! Here's a rough narration of my thought p
   * Best practice: Don't use local and global variable names that are the same or single-letter
 * Jeff wants us to practice importing modules such as *string*
 
+#### Practice writing docstring (quiz 2) ####
 ```python
-Practice writing docstring (quiz 2)
 def k(a, b, c=6):
     """Prints (a*b)+c"""
     print (a*b)+c
+
 help(k)
 ```
 
