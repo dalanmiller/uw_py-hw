@@ -43,6 +43,7 @@ help(k)
 * Ch3: I don't understand the purpose of printing() a function
   * Hypothesis: Does it show the memory address of the function?
 * Ch3: I don't understand why the flow of execution can be "violated" in 3_2
+  * Week2: Initially misinterpreted this, mistakenly thought a function was called before it was defined, oops!
 * 3_2: Can't get the len() of an integer, not sure how to handle exception without knowledge of conditional statements
 * 3_4: The wording really confused me. Working backwards from the provided solution helped immensely.
 * 3_5: At first I didn't realize that separating print() values with commas would create an extra space, but my grid still showed up intact, albeit spaced apart. Corrected this but ended up dropping some multiplication to '- ' dashes followed by spaces.
