@@ -12,6 +12,9 @@
 I'm just a dude that does his homework! Here's a rough narration of my thought process as I blaze through this course.
 
 ## Week 2 ##
+### Homework & Reading ###
+* Got Swampy installed!
+
 ### In-class ###
 * I need to install [Swampy](http://allendowney.com/swampy/install.html).
 * Best practice: Use docstrings!
