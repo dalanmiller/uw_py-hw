@@ -14,6 +14,7 @@ I'm just a dude that does his homework! Here's a rough narration of my thought p
 ## Week 2 ##
 ### Homework & Reading ###
 * Got Swampy installed!
+* Started creating presentation about (how I plan on using Python)[https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000].
 
 ### In-class ###
 * I need to install [Swampy](http://allendowney.com/swampy/install.html).
