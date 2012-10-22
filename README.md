@@ -17,6 +17,7 @@ I'm just a dude that does his homework! Here's a rough narration of my thought p
 * Got Swampy installed!
 * Started creating presentation about [how I plan on using Python](https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000).
   * This has been consuming most of my time.
+* Did the exercises in 4.3 again, getting stuck on 4 and 5. 4 currently "works" but not as intended. The issue I'm struggling with is incorporating circumference. Did some tests with circumference = math.pi * (r * 2) but the correct approach is not yet apparent.
 
 ### In-class ###
 * I need to install [Swampy](http://allendowney.com/swampy/install.html).
