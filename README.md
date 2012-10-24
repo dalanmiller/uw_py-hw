@@ -14,7 +14,22 @@ I'm just a dude that does his homework! Here's a rough narration of my thought p
 
 ## Week 3##
 ### In-class ###
-* Discussed conditionals
+* Discussed conditionals, booleans
+  * "Leave true and false alone!"
+  * 0.0 is false float, 0 is false int
+  * None does not equal true *or* false
+  * A list containing "False" will still return True
+* while loops are good for running functions indefinitely, for unpredictable iterables
+* interation: continue is great for concise readability of code
+* "for... else" is valid Python syntax
+* Recursion allows functions to call themselves
+  * Anything you can do with a loop you can do with recursion, and vice versa, but pick the method that works in context
+  * Recursion is efficient for navigating binary trees (eg: r(r(r())) )
+  * More examples:
+    * Fibonacci sequence
+    * 8 Queens problem
+    * Fractual curves
+    * Space-filling curves
 
 ## Week 2 ##
 ### Homework & Reading ###
