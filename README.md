@@ -30,6 +30,8 @@ I'm just a dude that does his homework! Here's a rough narration of my thought p
     * 8 Queens problem
     * Fractual curves
     * Space-filling curves
+* Floating point numbers are bad at division due to C back end, as seen in Quiz 2
+  * Approach: abs(a-b) < delta * abs(a-b)
 
 ## Week 2 ##
 ### Homework & Reading ###
