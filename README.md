@@ -12,6 +12,10 @@
 
 I'm just a dude that does his homework! Here's a rough narration of my thought process as I blaze through this course.
 
+## Week 3##
+### In-class ###
+* Discussed conditionals
+
 ## Week 2 ##
 ### Homework & Reading ###
 * Due: 4, 5, 6, and 7
