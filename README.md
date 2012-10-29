@@ -16,11 +16,11 @@
 * Due: 4, 5, 6, and 7
 * After working on the initial exercises for a while and checking their answers, I am comfortable leaving Swampy and moving on to other exercises.
 * Liked discovering the procedure for development plans:
-  # Write small program without function definitions
-  # Encapsulate program as function and name it
-  # Generalize function, add parameters
-  # Repeat prior steps, copypasta working code
-  # Refactor program's similar functions for efficiency
+  1. Write small program without function definitions
+  1. Encapsulate program as function and name it
+  1. Generalize function, add parameters
+  1. Repeat prior steps, copypasta working code
+  1. Refactor program's similar functions for efficiency
 
 #### Chapter 5 ####
 ##### Random self-exercise #####
