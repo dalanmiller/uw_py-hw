@@ -10,9 +10,11 @@
 * [Problems](http://www.commercialventvac.com/python/index.html)
 * [Presentation: Andreas' Python Applications](https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000)
 
-I'm just a dude that does his homework! Here's a rough narration of my thought process as I blaze through this course.
-
 ## Week 3##
+### Homework & Reading ###
+* Due: 4, 5, 6, and 7
+* 
+
 ### In-class ###
 * Discussed conditionals, booleans
   * "Leave true and false alone!"
@@ -35,7 +37,7 @@ I'm just a dude that does his homework! Here's a rough narration of my thought p
 
 ## Week 2 ##
 ### Homework & Reading ###
-* Due: 4, 5, 6, and 7
+* Due: 1, 2, & 3
 * Got Swampy installed!
 * Started creating presentation about [how I plan on using Python](https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000).
   * This has been consuming most of my time.
@@ -54,16 +56,7 @@ I'm just a dude that does his homework! Here's a rough narration of my thought p
 * Best practice: Don't use global variables!
   * Demonstration: scope.py
   * Best practice: Don't use local and global variable names that are the same or single-letter
-* Jeff wants us to practice importing modules such as *string*
-
-#### Practice writing docstring (quiz 2) ####
-```python
-def k(a, b, c=6):
-    """Prints (a*b)+c"""
-    print (a*b)+c
-
-help(k)
-```
+* Jeff wants us to practice importing modules such as *string
 
 ## Week 1 ##
 ### Homework & Reading ###
