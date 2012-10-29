@@ -23,15 +23,8 @@
   1. Refactor program's similar functions for efficiency
 
 #### Chapter 5 ####
-##### Random self-exercise #####
-```Python
-def isPositive(x):
-  "Determines if argument is positive or negative"
-  if x > 0:
-    print str(x) + ' is positive'
-  else:
-    print str(x) + ' is negative'
-```
+* Created an HTML template for stack diagrams
+* 
 
 ### In-class ###
 * Discussed conditionals, booleans

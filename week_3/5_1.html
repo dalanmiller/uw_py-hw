@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<!-- This is a simple HTML template for stack diagrams by Andreas Stassivik. -->
+<html>
+<head>
+	<style type="text/css">
+		p span {
+			/* Places boxes around spans, forces minimum box width */
+			border: solid 1.5px;
+		    background-color: #FFF;
+		    padding: 3px;
+		    min-width: 50px;
+		    display: inline-block;
+		}
+
+		span:after {
+			/* Places non-breaking space inside empty spans to prevent empty box collapse */
+			content: '\00A0';
+		}
+	</style>
+</head>
+<body>
+	<p>
+		module
+		<span></span>
+	</p>
+	<p>
+		countdown
+		<span>n &rarr; 3</span>
+	</p>
+	<p>
+		countdown
+		<span>n &rarr; 2</span>
+	</p>
+	<p>
+		countdown
+		<span>n &rarr; 1</span>
+	</p>
+	<p>
+		countdown
+		<span>n &rarr; 0</span>
+	</p>
+</body>
+</html>
