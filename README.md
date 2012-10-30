@@ -24,6 +24,8 @@
 
 #### Chapter 5 ####
 * Created an HTML template for stack diagrams
+* 5_2: Created my first recursive function
+* 5_3: Built my first program with user input, utilizes conditional loops!
 * 
 
 ### In-class ###
