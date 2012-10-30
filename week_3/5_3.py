@@ -13,19 +13,14 @@ def check_fermat (a, b, c, n):
 
 def user_input():
 	print "Are you prepared to prove Fermat wrong?"
-
 	a = raw_input('Please enter a value for integer a:\n')
 	a = int(a)
-
 	b = raw_input('Please enter a value for integer b:\n')
 	b = int(b)
-
 	c = raw_input('Please enter a value for integer c:\n')
 	c = int(c)
-
 	n = raw_input('Please enter a value for integer n that is greater than 2:\n')
 	n = int(n)
-
 	check_fermat(a, b, c, n)
 
 user_input()

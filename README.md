@@ -12,8 +12,18 @@
 
 ## Week 3##
 ### Homework & Reading ###
-#### Chapter 4 ####
 * Due: 4, 5, 6, and 7
+
+#### Chapter 6 ####
+* 
+
+#### Chapter 5 ####
+* Created an HTML template for stack diagrams
+* 5_2: Created my first recursive function
+* 5_3: Built my first program with user input, utilizes conditional loops!
+* 5_4: Getting the hang of programs with user input. Borrowed code from 5_3, went fast.
+
+#### Chapter 4 ####
 * After working on the initial exercises for a while and checking their answers, I am comfortable leaving Swampy and moving on to other exercises.
 * Liked discovering the procedure for development plans:
   1. Write small program without function definitions
@@ -21,12 +31,6 @@
   1. Generalize function, add parameters
   1. Repeat prior steps, copypasta working code
   1. Refactor program's similar functions for efficiency
-
-#### Chapter 5 ####
-* Created an HTML template for stack diagrams
-* 5_2: Created my first recursive function
-* 5_3: Built my first program with user input, utilizes conditional loops!
-* 
 
 ### In-class ###
 * Discussed conditionals, booleans
