@@ -15,7 +15,7 @@
 * Due: 4, 5, 6, and 7
 
 #### Chapter 6 ####
-* 
+* Read through the chapter and did a few exercises. Struggled a bit with factorials (as I do with several mathematic concepts I'm rusty on) but I could follow the code examples.
 
 #### Chapter 5 ####
 * Created an HTML template for stack diagrams
