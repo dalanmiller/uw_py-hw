@@ -14,6 +14,23 @@
 ### In-class ###
 * *assert* declares a statement is true, else throws AssertionError.
   * Will cover error handling in this week's homework
+* Newton had to invent calculus in order to understand the solution to the in-class problem. This is an overt message that I should invent calculus.
+* eval() evaluates problems
+* Python 2 is default ASCII, Python 3 is default Unicode
+  * unicode string syntax: u"string"
+  * raw string syntax: r"string"
+  * UTF8 most popular unicode
+* Strings
+  * Slices of strings are possible
+  * Strings are *immutable*... but there are workarounds
+    * Workaround: Convert strings to a list, always mutable!
+* rstrip and lstrip can remove spaces at the start/end of strings
+* You can print and modify recursion levels using sys module
+* Tips for files:
+  * Set multiple paths to variables, then change working directories using variables.
+  * Use raw string inputs to bypass issues with tab, slash characters
+* There are file-like objects that can be treated like files onced imported (eg: urls)
+* Best practice: Handle exceptions
 * 
 
 ## Week 3 ##
