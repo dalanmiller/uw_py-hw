@@ -10,7 +10,13 @@
 * [Problems](http://www.commercialventvac.com/python/index.html)
 * [Presentation: Andreas' Python Applications](https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000)
 
-## Week 3##
+## Week 4 ##
+### In-class ###
+* *assert* declares a statement is true, else throws AssertionError.
+  * Will cover error handling in this week's homework
+* 
+
+## Week 3 ##
 ### Homework & Reading ###
 * Due: 4, 5, 6, and 7
 
