@@ -13,11 +13,16 @@
 ## Week 4 ##
 ### Homework & Reading ###
 * Due: 8, 9, 14 (*except* 14_7!)
-  * Catching up on Ch 7 examples too
+
+#### Chapter 8 ####
+* pass
+  * See what I did there?
+
+#### Chapter 7 ####
+* Catching up
 * Self-reminders:
   * dir() function lists functions in module
   * pass is an argument(?) great for placeholders, does nothing
-* 
 
 ### In-class ###
 * *assert* declares a statement is true, else throws AssertionError.
