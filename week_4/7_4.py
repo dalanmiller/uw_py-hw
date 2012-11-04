@@ -6,4 +6,13 @@ def eval_loop():
 	Continues until the user enters 'done', and then returns
 	the value of the last expression it evaluated.
 	"""
-	pass
+	while True:
+		line = raw_input('Evaluate > ')
+		if line == 'done':
+			print "Done!"
+			break
+		else:
+			print line + '...'
+		print str(eval(line)) + '\n'
+
+eval_loop()
