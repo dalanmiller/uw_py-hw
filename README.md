@@ -11,6 +11,14 @@
 * [Presentation: Andreas' Python Applications](https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000)
 
 ## Week 4 ##
+### Homework & Reading ###
+* Due: 8, 9, 14 (*except* 14_7!)
+  * Catching up on Ch 7 examples too
+* Self-reminders:
+  * dir() function lists functions in module
+  * pass is an argument(?) great for placeholders, does nothing
+* 
+
 ### In-class ###
 * *assert* declares a statement is true, else throws AssertionError.
   * Will cover error handling in this week's homework
@@ -31,7 +39,12 @@
   * Use raw string inputs to bypass issues with tab, slash characters
 * There are file-like objects that can be treated like files onced imported (eg: urls)
 * Best practice: Handle exceptions
-* 
+* Exceptions are objects, have their own class, and they can be user-defined
+  * A module named exceptions exists, can be imported and output by dir()
+* Exiting gracefully? Use sys.exit().
+* *finally* block is apparently unconventional, but can be executed in addition to previous blocks
+* Tell if an attribute of an object is a method via callable()
+* Windows users have to treat file access in a unique way
 
 ## Week 3 ##
 ### Homework & Reading ###
