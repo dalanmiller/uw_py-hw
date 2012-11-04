@@ -15,8 +15,10 @@
 * Due: 8, 9, 14 (*except* 14_7!)
 
 #### Chapter 8 ####
-* pass
-  * See what I did there?
+* Self-reminder:
+  * When writing an *or* conditional, it helps to visualize how each *or* segment would run independently of the others. This caused me a big headache on 8_2.
+    * Thanks [Dan](https://github.com/dalanmiller)!
+* 
 
 #### Chapter 7 ####
 * Catching up
