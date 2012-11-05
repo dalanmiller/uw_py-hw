@@ -18,6 +18,8 @@
 * Self-reminder:
   * When writing an *or* conditional, it helps to visualize how each *or* segment would run independently of the others. This caused me a big headache on 8_2.
     * Thanks [Dan](https://github.com/dalanmiller)!
+* Immutability:
+  * Strings cannot be modified, but the effect of modifying them can be replicated by creating new strings that contain modifications.
 * 
 
 #### Chapter 7 ####
