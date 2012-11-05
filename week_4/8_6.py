@@ -7,4 +7,8 @@ def count_at(word, letter, start):
 		index = index + 1
 	return count
 
-print count_at('banana', 'b', 0)
+# Test queries
+print count_at('banana', 'a', 0)
+print count_at('banana', 'a', 3)
+print count_at('university', 'i', 4)
+print count_at('team', 'i', 0)
