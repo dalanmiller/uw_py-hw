@@ -11,6 +11,9 @@
 * [Presentation: Andreas' Python Applications](https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000)
 
 ## Week 5 ##
+### Homework & Reading ###
+* Do homework in Ch. 10 & 12 (except 12_6)
+
 ### In-class ###
 * Checking in
 * *pickling* or serializing is writing an object to file
