@@ -10,6 +10,11 @@
 * [Problems](http://www.commercialventvac.com/python/index.html)
 * [Presentation: Andreas' Python Applications](https://docs.google.com/presentation/pub?id=1zAHdFjKlDOk62n0kCZS4lUPH1Or79iyVnPUX94bSnlE&start=false&loop=false&delayms=15000)
 
+## Week 5 ##
+### In-class ###
+* Checking in
+* 
+
 ## Week 4 ##
 ### Homework & Reading ###
 * Due: 8, 9, 14 (*except* 14_7!)
