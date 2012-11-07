@@ -13,6 +13,11 @@
 ## Week 5 ##
 ### In-class ###
 * Checking in
+* *pickling* or serializing is writing an object to file
+* defining main() is a "way of making software reusable"
+  * list test name = main passes
+  * if software re-used, it won't execute
+  * 14.9 explains in book
 * 
 
 ## Week 4 ##
