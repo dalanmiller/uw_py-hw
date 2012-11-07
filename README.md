@@ -18,6 +18,25 @@
   * list test name = main passes
   * if software re-used, it won't execute
   * 14.9 explains in book
+* pickle.HIGHEST_PROTOCOL is method that uses most recent version of pickle
+* Jeff is a fan of temporary values due to easy of debugging
+  * "Computer time is cheap and your time is valuable."
+* 14_5 is an exercise to retrieve data from URL
+* Lists are mutable and can be changed, unlike strings
+* *in* is not as fast as hashing function since it searches a list from left to right
+* Can't print a sort method because there's no output, it just rearranges things
+  * sort*ed* does return something, confusingly enough...
+* list .reverse method permanently reverses the order of list items
+* .extend method is much faster than ++ operator for appending lists
+* It's possible to define a range as +:- because you can count up to positive, then count backward from end or vice versa.
+* Third range argument has special properties that allow you to skip items, print backwards, etc.
+  * eg: ::-1 in brackets
+* Careful not to copy a list wrong, remember to verify with x is y
+* Tuples are immutable
+  * This is why they are used!
+  * Appending strings with a single comma is how to inject a string into a tuple rather than a list.
+  * Although tuples can't be changed, the contained items can be changed!
+* Variable arguments are functions that can have unlimited arguments passed to them, which creates tuples once values sent
 * 
 
 ## Week 4 ##
