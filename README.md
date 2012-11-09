@@ -15,6 +15,9 @@
 * Do homework in Ch. 10 & 12 (except 12_6)
 * Finishing up 8, 9, 14 as well
 
+#### Chapter 8 ####
+* 8_10 brought me back to 6_6, which I dutifully executed. So glad I can do that crap in one line now.
+
 ### In-class ###
 * Checking in
 * *pickling* or serializing is writing an object to file
@@ -53,7 +56,6 @@
     * Thanks [Dan](https://github.com/dalanmiller)!
 * Immutability:
   * Strings cannot be modified, but the effect of modifying them can be replicated by creating new strings that contain modifications.
-* 
 
 #### Chapter 7 ####
 * Catching up
