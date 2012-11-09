@@ -17,6 +17,7 @@
 
 #### Chapter 8 ####
 * 8_10 brought me back to 6_6, which I dutifully executed. So glad I can do that crap in one line now.
+* Finished Ch 8. 8_12 was a breeze until I tried perfecting my ouput to print on one line without whitespaces. Tried various methods used to trim spacing which did not work. A better solution might have been to output to a list and then print the join method, but I'm not quite there yet.
 
 ### In-class ###
 * Checking in
@@ -44,7 +45,6 @@
   * Appending strings with a single comma is how to inject a string into a tuple rather than a list.
   * Although tuples can't be changed, the contained items can be changed!
 * Variable arguments are functions that can have unlimited arguments passed to them, which creates tuples once values sent
-* 
 
 ## Week 4 ##
 ### Homework & Reading ###
