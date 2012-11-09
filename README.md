@@ -13,6 +13,7 @@
 ## Week 5 ##
 ### Homework & Reading ###
 * Do homework in Ch. 10 & 12 (except 12_6)
+* Finishing up 8, 9, 14 as well
 
 ### In-class ###
 * Checking in
