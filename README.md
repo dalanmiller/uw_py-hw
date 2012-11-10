@@ -17,6 +17,7 @@
 
 #### Chapter 9 ####
 * 9_2: I have learned much about words that abstain from containing the letter "e."
+     * Brought to you buy the letters D, A, N, I, E, L
 
 #### Chapter 8 ####
 * 8_10 brought me back to 6_6, which I dutifully executed. So glad I can do that crap in one line now.
