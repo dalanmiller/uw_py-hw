@@ -15,9 +15,13 @@
 * Do homework in Ch. 10 & 12 (except 12_6)
 * Finishing up 8, 9, 14 as well
 
+#### Chapter 9 ####
+* 9_2: I have learned much about words that abstain from containing the letter "e."
+
 #### Chapter 8 ####
 * 8_10 brought me back to 6_6, which I dutifully executed. So glad I can do that crap in one line now.
 * Finished Ch 8. 8_12 was a breeze until I tried perfecting my ouput to print on one line without whitespaces. Tried various methods used to trim spacing which did not work. A better solution might have been to output to a list and then print the join method, but I'm not quite there yet.
+  * Also on 8_12, my cypher function is not iterating through the alphabet, but rather seems to be iterating through 255 ASCII character codes.
 
 ### In-class ###
 * Checking in
