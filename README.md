@@ -17,7 +17,11 @@
 
 #### Chapter 9 ####
 * 9_2: I have learned much about words that abstain from containing the letter "e."
-     * Brought to you buy the letters D, A, N, I, E, L
+  * Daniel taught me several things about strings in 9_2:
+    * Shorthand string evaluation: *return letter not in word*
+    * Shorthand increment: *word_count += 1*
+    * [How to write "pretty" strings using the % operator](https://code.google.com/edu/languages/google-python-class/strings.html)
+    * Thanks Daniel!
 
 #### Chapter 8 ####
 * 8_10 brought me back to 6_6, which I dutifully executed. So glad I can do that crap in one line now.
