@@ -22,6 +22,10 @@
     * Shorthand increment: *word_count += 1*
     * [How to write "pretty" strings using the % operator](https://code.google.com/edu/languages/google-python-class/strings.html)
     * Thanks Daniel!
+* 9_3: WHOAH. Got carried away with user error handling at first, then decided to cut and run in order to focus on the real issue. My first commit output the entire dictionary of non-avoided words, but the exercise was to simply tally the number of results, which I fixed in the next commit. The "bonus" question was *Can you find a combination of 5 forbidden letters that excludes the smallest number of words?* which I discovered by adding the function excludes_least().
+  * Most of my roadblocks are currently from lack of understanding of manipulating tuples and lists. Most of my workarounds are inefficient and memory-wasteful, but at least they work. Evidence of this issue includes my nexted *for* loops in avoids() and the alphabet_string variable in excludes_least().
+  * Another thing I had to resort to was transferring the excludes_least() output into a spreadsheet, manually moving a few of the cells around and running a sort function to find the least exclusions paired with their letters. This tells me I need to learn how to use lists and tuples (AGAIN) and utilize key value pairs. If done correctly, I'd have to adapt the excludes() function to use *return* instead of *print*.
+* 
 
 #### Chapter 8 ####
 * 8_10 brought me back to 6_6, which I dutifully executed. So glad I can do that crap in one line now.

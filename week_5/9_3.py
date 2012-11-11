@@ -1,6 +1,6 @@
-fin = open('words.txt')
-
 def avoids(avoided):
+	fin = open('words.txt')
+	results = 0
 	for line in fin:
 		passes_filter = True
 		word = line.strip()
@@ -8,7 +8,8 @@ def avoids(avoided):
 			if letter in word:
 				passes_filter = False
 		if passes_filter:
-			print word
+			results += 1
+	print str(results)
 
 def is_not_empty(word):
 	"Verifies user input is not empty."
@@ -31,4 +32,15 @@ def user_input():
 	avoided = avoided.lower()	#Forces letters to become lowercase
 	user_audit(avoided)
 
+def excludes_least():
+	"""
+	Used to see which letter combinations exclude the least amount of words.
+	The result of this endeavor is the string "qjxzw" which yields 96425 results!
+	"""
+	alphabet_string = 'abcdefghijklmnopqrstuwxyz'
+	for letter in alphabet_string:
+		print letter
+		avoids(letter)
+
 user_input()
+# avoids('qjxzw')
